@@ -1,6 +1,6 @@
 {
-  "name": "react-confirm-bootstrap",
-  "version": "3.1.4",
+  "name": "aha-react-confirm-bootstrap",
+  "version": "3.1.5",
   "description": "Confirm Dialog for react with Bootstrap Modal",
   "main": "lib/Confirm.js",
   "scripts": {
@@ -43,6 +43,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.8",
-    "react-bootstrap": "^0.31.0"
+    "react-bootstrap": "^0.31.0",
+    "react-modal": "^1.7.7"
   }
 }
