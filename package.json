@@ -1,5 +1,5 @@
 {
-  "name": "aha-react-confirm-bootstrap",
+  "name": "react-confirm-bootstrap",
   "version": "3.1.5",
   "description": "Confirm Dialog for react with Bootstrap Modal",
   "main": "lib/Confirm.js",
